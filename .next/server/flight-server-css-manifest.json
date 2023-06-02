@@ -1,0 +1,15 @@
+{
+  "cssImports": {
+    "/Users/iairkaplun/Desktop/Henry/Proyecto Final /Next JS /nextdemob /nextJSdemo/app/layout.js": [
+      "/Users/iairkaplun/Desktop/Henry/Proyecto Final /Next JS /nextdemob /nextJSdemo/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  },
+  "cssModules": {
+    "/Users/iairkaplun/Desktop/Henry/Proyecto Final /Next JS /nextdemob /nextJSdemo/app/services/page": [
+      "/Users/iairkaplun/Desktop/Henry/Proyecto Final /Next JS /nextdemob /nextJSdemo/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "/Users/iairkaplun/Desktop/Henry/Proyecto Final /Next JS /nextdemob /nextJSdemo/app/about/page": [
+      "/Users/iairkaplun/Desktop/Henry/Proyecto Final /Next JS /nextdemob /nextJSdemo/node_modules/next/font/google/target.css?{\"path\":\"app/layout.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
